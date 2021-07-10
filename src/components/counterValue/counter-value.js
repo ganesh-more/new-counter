@@ -5,7 +5,7 @@ function CounterValue({count}) {
 
   return (
       <div className={"counterValueWrapper"}>
-        <div className={"label"}>Counter Value:{count}</div>
+        <div className={"label"}>Counter Value : {count}</div>
       </div>
   );
 }
